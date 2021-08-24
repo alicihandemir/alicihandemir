@@ -14,8 +14,6 @@
 
 <img align="left" style="margin-left:0.5em"  alt="Python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" style="margin-left:0.5em" width="45px"  src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/>
-
 <img align="left" style="margin-left:0.5em"  alt="CS" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" style="margin-left:0.5em" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
