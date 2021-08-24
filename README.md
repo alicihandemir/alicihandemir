@@ -52,5 +52,5 @@
 
 [Hackerrank]: https://www.hackerrank.com/demircihanali
 [Linkedin]: https://www.linkedin.com/in/alıcıhandemır/
-[Codewars]: https://www.linkedin.com/in/alicihandemir
+[Codewars]: https://www.codewars.com/users/alicihandemir
 [StackOverflow]: https://stackoverflow.com/users/16342066/ali-cihan-demir
